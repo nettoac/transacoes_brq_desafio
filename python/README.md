@@ -1,4 +1,4 @@
-# API de Pagamentos
+# API de Pagamentos - Versão Python
 
 API REST para processamento de transações financeiras com simulação de serviços AWS (SQS, Lambda e DynamoDB).
 

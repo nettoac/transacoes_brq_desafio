@@ -1,5 +1,4 @@
-```markdown:c:\desenv\desafio_brq\java\README.md
-# API de Pagamentos (Versão Java)
+# API de Pagamentos - Versão Java
 
 API REST para processamento de transações financeiras com simulação de serviços AWS (SQS, Lambda e DynamoDB) implementada em Java.
 
